@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Darsani</h1>
-<h2 align="center">A Passionate Frontend Developer from India</h2>
-<h3 align="center">Eager to master backend development and cloud computing.</h3>
+# Hi 👋, I'm Darsani
+
+## A Passionate Frontend Developer from India
+
+### Eager to master backend development and cloud computing.
 
 ## 🚀 Quick Overview
 
@@ -44,7 +46,3 @@ Here are some of the technologies and tools that I work with:
 ## 🌐 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=darsanits07&color=blueviolet&style=flat-square)
 <br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</div>
