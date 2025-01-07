@@ -28,28 +28,21 @@ Here are some of the technologies and tools that I work with:
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black)
 
+
+## 📊 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=darsanits07&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=darsanits07&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=darsanits07&theme=gotham&hide_border=false)<br/>
+
 ## 🤝 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/darsani-t-s-ab987927a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
-## 📊 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darsanits07&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</p>
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darsanits07&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darsanits07&theme=dracula&hide_border=false" alt="darsanits07 streak stats" />
-</p>
-
-
-
 ## 🌐 Profile Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darsanits07&label=Profile%20views&color=0e75b6&style=flat" alt="darsanits07" /> </p>
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=darsanits07&color=blueviolet&style=flat-square)
 <br clear="both">
 
 <div align="center">
