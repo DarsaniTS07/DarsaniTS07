@@ -1,6 +1,6 @@
 # Hi 👋, I'm Darsani
 
-## A Passionate Frontend Developer from India
+## A Passionate Full-Stack Developer and AI enthusiast from India
 
 ### Eager to master backend development and cloud computing.
 
