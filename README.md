@@ -1,48 +1,141 @@
-# Hi 👋, I'm Darsani
+<img src="./assets/banner.png" width="100%" />
 
-## A Passionate Full-Stack Developer and AI enthusiast from India
+<div align="center">
 
-### Eager to master backend development and cloud computing.
+# Hi 👋, I'm Darsani T S
 
-## 🚀 Quick Overview
+### Full Stack Developer • Cloud Enthusiast • AI Explorer
 
-- 🔭 I’m currently studying at **Bannari Amman Institute of Technology**
-- 🌱 I’m currently learning **Full Stack and Cloud Development**
-- 👯 I’m looking to collaborate on **Full Stack Projects**
-- 📫 How to reach me: **darsanits9781@gmail.com**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D26A&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Cloud+Enthusiast;AI+Explorer;React+%7C+Node.js+%7C+AWS;Building+Technology+That+Creates+Impact" />
 
-## 🛠️ Technologies and Tools
+<br>
 
-Here are some of the technologies and tools that I work with:
+## 📫 Connect With Me
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=black)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black)
+<div align="center">
 
+<a href="mailto:darsanits9781@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+</a>
 
-## 📊 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darsanits07&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://www.linkedin.com/in/darsani-t-s">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+</a>
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=darsanits07&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=darsanits07&theme=gotham&hide_border=false)<br/>
+<a href="https://github.com/DarsaniTS07">
+  <img src="https://skillicons.dev/icons?i=github" width="55" />
+</a>
 
-## 🤝 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/darsani-t-s-ab987927a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://darsani05.vercel.app/">
+  <img src="https://skillicons.dev/icons?i=vercel" width="55" />
+</a>
+
+<a href="https://leetcode.com/u/Darsa05/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="55" />
+</a>
+
+</div>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+🎓 B.Tech Information Technology Student at Bannari Amman Institute of Technology
+
+💼 Full Stack Developer Intern @ Crayon'd
+
+☁️ Google Cloud Arcade Facilitator
+
+🤖 AI & Cloud Enthusiast
+
+🌱 Currently learning AWS Architecture, System Design, and Generative AI
+
+---
+
+## ⚔️ Tech Armory
+
+| **Programming Languages** | **Web Development** | **Databases & Tools** | **AI/ML & Data Science** |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=java" width="45"/> <img src="https://skillicons.dev/icons?i=python" width="45"/> <img src="https://skillicons.dev/icons?i=cpp" width="45"/> <img src="https://skillicons.dev/icons?i=js" width="45"/> <img src="https://skillicons.dev/icons?i=ts" width="45"/> | <img src="https://skillicons.dev/icons?i=react" width="45"/> <img src="https://skillicons.dev/icons?i=nodejs" width="45"/> <img src="https://skillicons.dev/icons?i=express" width="45"/> <img src="https://skillicons.dev/icons?i=nextjs" width="45"/> <img src="https://skillicons.dev/icons?i=html" width="45"/> <img src="https://skillicons.dev/icons?i=css" width="45"/> <img src="https://skillicons.dev/icons?i=tailwind" width="45"/> | <img src="https://skillicons.dev/icons?i=mysql" width="45"/> <img src="https://skillicons.dev/icons?i=postgresql" width="45"/> <img src="https://skillicons.dev/icons?i=git" width="45"/> <img src="https://skillicons.dev/icons?i=github" width="45"/> | <img src="https://skillicons.dev/icons?i=python" width="45"/> <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/> |
+
+| **DevOps & Infrastructure** | **Design & Development Tools** | **Operating Systems** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=docker" width="45"/> <img src="https://skillicons.dev/icons?i=aws" width="45"/> <img src="https://skillicons.dev/icons?i=gcp" width="45"/> <img src="https://skillicons.dev/icons?i=linux" width="45"/> | <img src="https://skillicons.dev/icons?i=vscode" width="45"/> <img src="https://skillicons.dev/icons?i=figma" width="45"/> <img src="https://skillicons.dev/icons?i=postman" width="45"/> | <img src="https://skillicons.dev/icons?i=linux" width="45"/> <img src="https://skillicons.dev/icons?i=windows" width="45"/> |
+
+---
+
+## 🚀 Work Highlights
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :---: | :---: |
+| ✈️ AI Travel Recommendation System | Personalized AI travel itinerary generator using Gemini and Places API | React • Node.js • Express | Demo |
+| 💧 Aurora Smart Water Dashboard | Real-time water quality monitoring dashboard | React • JavaScript • Material UI | Demo |
+| ☁️ AWS CI/CD Pipeline | Automated deployment workflow using AWS services | AWS • EC2 • CodePipeline | Demo |
+| 📚 Material Transaction Dashboard | Material distribution and tracking platform | React • Express • MySQL | Demo |
+| 🌾 Smart Agriculture IoT | ESP8266 & Adafruit IO based monitoring system | IoT • ESP8266 | Demo |
+| 🎬 Disney+ Hotstar Clone | Flutter-based streaming UI clone | Flutter | Demo |
+
+---
+
+## 🏆 Achievements
+
+- Special Mention – Ethical Hackathon
+- Bug Baiter Recognition by AMYPO Technologies
+- AWS Cloud Quest Completion
+- Oracle Certified Foundations Associate
+
+---
+
+## 🌟 Leadership
+
+### Executive Tech Lead
+Full Stack Special Lab – Bannari Amman Institute of Technology
+
+### V-Prayukti Coordinator & Trainer
+Led a 24-hour IoT Hackathon and trained 40+ students.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarsaniTS07&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DarsaniTS07&theme=tokyonight"/>
 </p>
 
-## 🌐 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=darsanits07&color=blueviolet&style=flat-square)
-<br clear="both">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarsaniTS07&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DarsaniTS07&theme=react-dark"/>
+</p>
+
+---
+
+## 🧠 LeetCode
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Darsa05?theme=dark&font=Nunito"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- Portfolio: https://darsani05.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/darsani-t-s
+- GitHub: https://github.com/DarsaniTS07
+- LeetCode: https://leetcode.com/u/Darsa05/
+
+---
+
+<div align="center">
+
+### ⭐ Building Technology That Creates Impact
+
+<img src="https://komarev.com/ghpvc/?username=DarsaniTS07&style=for-the-badge"/>
+
+</div>
