@@ -54,7 +54,7 @@
 
 ---
 
-## ⚔️ Tech Armory
+## ⚔️ Skills
 
 | **Programming Languages** | **Web Development** | **Databases & Tools** | **AI/ML & Data Science** |
 |:---:|:---:|:---:|:---:|
@@ -123,14 +123,6 @@ Led a 24-hour IoT Hackathon and trained 40+ students.
 
 ---
 
-## 📫 Connect With Me
-
-- Portfolio: https://darsani05.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/darsani-t-s
-- GitHub: https://github.com/DarsaniTS07
-- LeetCode: https://leetcode.com/u/Darsa05/
-
----
 
 <div align="center">
 
