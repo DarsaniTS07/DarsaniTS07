@@ -32,8 +32,6 @@
 
 </div>
 
----
-
 ## 🚀 About Me
 
 <p align="center">
@@ -49,8 +47,6 @@
 🌱 Currently learning AWS Architecture, System Design and Generative AI
 
 </p>
-
----
 
 ## ⚡ Tech Stack
 
@@ -157,8 +153,6 @@
 
 </div>
 
----
-
 ## 🚀 Work Highlights
 
 <table align="center">
@@ -207,8 +201,6 @@
 
 </table>
 
----
-
 ## 🏆 Achievements
 
 <ul>
@@ -235,8 +227,6 @@
 
 </ul>
 
----
-
 ## 📊 GitHub Analytics
 
 <table align="center">
@@ -258,8 +248,6 @@
 </table>
 
 <br>
-
----
 
 <h2>🧠 LeetCode & 🎲 Random Facts</h2>
 
@@ -288,5 +276,3 @@
 
 </tr>
 </table>
-
----
