@@ -201,32 +201,6 @@
 
 </table>
 
-## 🏆 Achievements
-
-<ul>
-
-<li>🏆 Special Mention – Ethical Hackathon</li>
-
-<li>🐞 Bug Baiter Recognition by AMYPO Technologies</li>
-
-<li>☁️ AWS Cloud Quest Completion</li>
-
-<li>📜 Oracle Certified Foundations Associate</li>
-
-</ul>
-
----
-
-## 🌟 Leadership
-
-<ul>
-
-<li><b>Executive Tech Lead</b> – Full Stack Special Lab, Bannari Amman Institute of Technology</li>
-
-<li><b>V-Prayukti Coordinator & Trainer</b> – Led a 24-Hour IoT Hackathon and trained 40+ students</li>
-
-</ul>
-
 ## 📊 GitHub Analytics
 
 <table align="center">
