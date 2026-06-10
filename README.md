@@ -37,122 +37,31 @@
 
 ## 🚀 About Me
 
-<p align="center">
+<img align="right" src="https://github-stats-alpha.vercel.app/api?username=darsanits07&cc=22272e&tc=00D26A&ic=fff&bc=0000" height="200" width="380" />
 
-🎓 B.E Electronics and Communication Engineering Student at Bannari Amman Institute of Technology
 
-💼 Full Stack Developer Intern @ Crayon'd
-
-☁️ Google Cloud Arcade Facilitator
-
-🤖 AI & Cloud Enthusiast
-
-🌱 Currently learning AWS Architecture, System Design and Generative AI
-
-</p>
+<ul>
+<li>🎓 ECE student exploring <b>Full Stack</b>, <b>Cloud</b> and <b>AI</b>.</li>
+<li>💼 Full Stack Developer Intern @ <b>Crayon'd</b>.</li>
+<li>☁️ Google Cloud Arcade Facilitator.</li>
+<li>🤖 Passionate about AI-powered applications.</li>
+<li>🌱 Currently learning AWS Architecture, System Design and Generative AI.</li>
+<li>🚀 Building projects that create real-world impact.</li>
+<li>🎯 Turning ideas into products.</li>
+</ul>
 
 ## ⚡ Tech Stack
 
 <div align="center">
 
-<table>
-
-<tr>
-<th>Category</th>
-<th>Technologies</th>
-</tr>
-
-<tr>
-<td><b>Programming Languages</b></td>
-<td>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-</td>
-</tr>
-
-<tr>
-<td><b>Frontend</b></td>
-<td>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
-
-<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui"/>
-
-</td>
-</tr>
-
-<tr>
-<td><b>Backend</b></td>
-<td>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
-
-</td>
-</tr>
-
-<tr>
-<td><b>Databases</b></td>
-<td>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
-
-</td>
-</tr>
-
-<tr>
-<td><b>Cloud & DevOps</b></td>
-<td>
-
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws"/>
-
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</td>
-</tr>
-
-<tr>
-<td><b>Tools</b></td>
-<td>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
-
-</td>
-</tr>
-
-</table>
+| **Category** | **Technologies** |
+|--------------|------------------|
+| **Programming Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
+| **Frontend Development** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![MaterialUI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white) |
+| **Backend Development** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=61DAFB) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| **Tools & Platforms** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
 
 </div>
 
@@ -228,26 +137,22 @@
 
 <h2>🧠 LeetCode & 🎲 Random Facts</h2>
 
-<table align="center">
+<table width="100%">
 <tr>
 
-<td align="center" width="50%">
+<td width="55%" valign="top" align="center">
 
-<h3>🧠 LeetCode Stats</h3>
+<h3>🧠 LeetCode Progress</h3>
 
-<img src="https://leetcard.jacoblin.cool/Darsa05?theme=dark&font=Nunito"/>
+<img src="https://leetcard.jacoblin.cool/Darsa05?theme=dark&font=Nunito" width="420"/>
 
 </td>
 
-<td align="left" width="50%">
-  
-<h3>✍️ Random Dev Quote</h3>
+<td width="45%" valign="top" align="center">
 
-<div align="center">
+<h3>💡 Developer Inspiration</h3>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </td>
 
