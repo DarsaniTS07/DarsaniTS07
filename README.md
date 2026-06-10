@@ -6,29 +6,32 @@
 
 <h3>Full Stack Developer • Cloud Enthusiast • AI Explorer</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D26A&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Cloud+Enthusiast;AI+Explorer;React+%7C+Node.js+%7C+AWS;Building+Technology+That+Creates+Impact" />
 
-<br>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D26A&center=true&vCenter=true&width=700&lines=Feel+free+to+connect!;Open+to+collaborations!;Building+Technology+That+Creates+Impact;Always+Learning+Something+New!" />
 
 <a href="mailto:darsanits9781@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
-</a>
-
-<a href="https://www.linkedin.com/in/darsani-t-s">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-</a>
-
-<a href="https://github.com/DarsaniTS07">
-  <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="35" height="35" />
 </a>
 
 <a href="https://darsani05.vercel.app/">
-  <img src="https://skillicons.dev/icons?i=vercel" width="40"/>
+  <img src="https://skillicons.dev/icons?i=vercel" width="35" height="35" />
+</a>
+
+<a href="https://www.linkedin.com/in/darsani-t-s">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="35" height="35" />
+</a>
+
+<a href="https://github.com/DarsaniTS07">
+  <img src="https://skillicons.dev/icons?i=github" width="35" height="35" />
 </a>
 
 <a href="https://leetcode.com/u/Darsa05/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="35" height="35" />
 </a>
+
+</div>
 
 </div>
 
