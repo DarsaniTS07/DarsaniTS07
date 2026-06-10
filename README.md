@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D26A&center=true&vCenter=true&width=700&lines=Feel+free+to+connect!;Open+to+collaborations!;Building+Technology+That+Creates+Impact;Always+Learning+Something+New!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D26A&center=true&vCenter=true&width=600&lines=Feel+free+to+connect!;Open+to+collaborations!;Building+Technology+That+Creates+Impact;Always+Learning+Something+New!" />
 
 <a href="mailto:darsanits9781@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="35" height="35" />
