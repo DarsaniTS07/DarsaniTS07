@@ -70,45 +70,91 @@
 <table align="center">
 
 <tr>
-<th>Project</th>
+<th align="center">Project</th>
 <th>Description</th>
-<th>Tech Stack</th>
+<th align="center">Tech Stack</th>
+<th align="center">Links</th>
 </tr>
 
 <tr>
-<td>✈️ AI Travel Recommendation System</td>
-<td>AI-powered trip planning platform using Gemini API and Google Places API.</td>
-<td>React • Node.js • Express.js</td>
+<td align="center"><b>✈️ AI Travel Recommendation System</b></td>
+<td>AI-powered travel planner with personalized trip recommendations.</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="45"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
+<img src="https://skillicons.dev/icons?i=express" width="45"/>
+</td>
+<td align="center">
+<a href="YOUR_DEMO_LINK">🔗 Live</a><br/>
+<a href="YOUR_GITHUB_LINK">📂 Code</a>
+</td>
 </tr>
 
 <tr>
-<td>💧 Aurora Smart Water Dashboard</td>
-<td>Real-time water monitoring dashboard for pH, temperature and turbidity tracking.</td>
-<td>React • JavaScript • Material UI</td>
+<td align="center"><b>💧 Aurora Smart Water Dashboard</b></td>
+<td>Real-time water quality monitoring and analytics dashboard.</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="45"/>
+<img src="https://skillicons.dev/icons?i=javascript" width="45"/>
+<img src="https://skillicons.dev/icons?i=materialui" width="45"/>
+</td>
+<td align="center">
+<a href="YOUR_DEMO_LINK">🔗 Demo</a><br/>
+<a href="YOUR_GITHUB_LINK">📂 Code</a>
+</td>
 </tr>
 
 <tr>
-<td>☁️ AWS CI/CD Pipeline</td>
-<td>Automated deployment workflow using AWS services.</td>
-<td>AWS • EC2 • CodePipeline</td>
+<td align="center"><b>☁️ AWS CI/CD Pipeline</b></td>
+<td>Automated cloud deployment and delivery workflow.</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws" width="45"/>
+<img src="https://skillicons.dev/icons?i=docker" width="45"/>
+<img src="https://skillicons.dev/icons?i=linux" width="45"/>
+</td>
+<td align="center">
+<a href="YOUR_DEMO_LINK">🔗 Demo</a><br/>
+<a href="YOUR_GITHUB_LINK">📂 Code</a>
+</td>
 </tr>
 
 <tr>
-<td>📚 Material Transaction Dashboard</td>
-<td>Educational material distribution and tracking platform.</td>
-<td>React • Express • MySQL</td>
+<td align="center"><b>📚 Material Transaction Dashboard</b></td>
+<td>Educational content distribution and tracking platform.</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="45"/>
+<img src="https://skillicons.dev/icons?i=express" width="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+</td>
+<td align="center">
+<a href="YOUR_DEMO_LINK">🔗 Demo</a><br/>
+<a href="YOUR_GITHUB_LINK">📂 Code</a>
+</td>
 </tr>
 
 <tr>
-<td>🌾 Smart Agriculture IoT</td>
-<td>ESP8266 and Adafruit IO based smart agriculture monitoring system.</td>
-<td>ESP8266 • IoT</td>
+<td align="center"><b>🌾 Smart Agriculture IoT</b></td>
+<td>IoT-based crop and environmental monitoring system.</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=arduino" width="45"/>
+<img src="https://skillicons.dev/icons?i=raspberrypi" width="45"/>
+</td>
+<td align="center">
+<a href="YOUR_DEMO_LINK">🔗 Demo</a><br/>
+<a href="YOUR_GITHUB_LINK">📂 Code</a>
+</td>
 </tr>
 
 <tr>
-<td>🎬 Disney+ Hotstar Clone</td>
-<td>Flutter application replicating Disney+ Hotstar user experience.</td>
-<td>Flutter</td>
+<td align="center"><b>🎬 Disney+ Hotstar Clone</b></td>
+<td>Flutter-based streaming platform UI clone.</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flutter" width="45"/>
+</td>
+<td align="center">
+<a href="YOUR_DEMO_LINK">🔗 Demo</a><br/>
+<a href="YOUR_GITHUB_LINK">📂 Code</a>
+</td>
 </tr>
 
 </table>
