@@ -78,7 +78,7 @@
 
 <tr>
 <td align="center"><b>✈️ AI Travel Recommendation System</b></td>
-<td>AI-powered travel planner with personalized trip recommendations.</td>
+<td width="420">AI-powered travel planner with personalized trip recommendations.</td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=react" width="45"/>
 <img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
@@ -92,7 +92,7 @@
 
 <tr>
 <td align="center"><b>💧 Aurora Smart Water Dashboard</b></td>
-<td>Real-time water quality monitoring and analytics dashboard.</td>
+<td width="420">Real-time water quality monitoring and analytics dashboard.</td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=react" width="45"/>
 <img src="https://skillicons.dev/icons?i=javascript" width="45"/>
@@ -106,7 +106,7 @@
 
 <tr>
 <td align="center"><b>☁️ AWS CI/CD Pipeline</b></td>
-<td>Automated cloud deployment and delivery workflow.</td>
+<td width="420">Automated cloud deployment and delivery workflow.</td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=aws" width="45"/>
 <img src="https://skillicons.dev/icons?i=docker" width="45"/>
