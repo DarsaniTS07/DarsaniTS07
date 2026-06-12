@@ -99,7 +99,7 @@
 <img src="https://skillicons.dev/icons?i=materialui" width="45"/>
 </td>
 <td align="center">
-<a href="YOUR_DEMO_LINK">🔗 Demo</a><br/>
+<a href="YOUR_DEMO_LINK">🔗 Live</a><br/>
 <a href="YOUR_GITHUB_LINK">📂 Code</a>
 </td>
 </tr>
@@ -113,25 +113,10 @@
 <img src="https://skillicons.dev/icons?i=linux" width="45"/>
 </td>
 <td align="center">
-<a href="YOUR_DEMO_LINK">🔗 Demo</a><br/>
+<a href="YOUR_DEMO_LINK">🔗 Live</a><br/>
 <a href="YOUR_GITHUB_LINK">📂 Code</a>
 </td>
 </tr>
-
-<tr>
-<td align="center"><b>📚 Material Transaction Dashboard</b></td>
-<td>Educational content distribution and tracking platform.</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="45"/>
-<img src="https://skillicons.dev/icons?i=express" width="45"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
-</td>
-<td align="center">
-<a href="YOUR_DEMO_LINK">🔗 Demo</a><br/>
-<a href="YOUR_GITHUB_LINK">📂 Code</a>
-</td>
-</tr>
-
 <tr>
 <td align="center"><b>🌾 Smart Agriculture IoT</b></td>
 <td>IoT-based crop and environmental monitoring system.</td>
@@ -140,7 +125,7 @@
 <img src="https://skillicons.dev/icons?i=raspberrypi" width="45"/>
 </td>
 <td align="center">
-<a href="YOUR_DEMO_LINK">🔗 Demo</a><br/>
+<a href="YOUR_DEMO_LINK">🔗 Live</a><br/>
 <a href="YOUR_GITHUB_LINK">📂 Code</a>
 </td>
 </tr>
@@ -152,7 +137,7 @@
 <img src="https://skillicons.dev/icons?i=flutter" width="45"/>
 </td>
 <td align="center">
-<a href="YOUR_DEMO_LINK">🔗 Demo</a><br/>
+<a href="YOUR_DEMO_LINK">🔗 Live</a><br/>
 <a href="YOUR_GITHUB_LINK">📂 Code</a>
 </td>
 </tr>
